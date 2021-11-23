@@ -1,6 +1,6 @@
 # <react-portfolio-v1>
 
-## description
+## Description
 This application serves as a portfolio built using React. This one page application gives the illusion of having multiple pages which are rendered conditionally via the navbar. This project was built with the intention of practicing working with React. This application
 
 ## Credits
