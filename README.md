@@ -9,7 +9,7 @@ Credits to the UW coding bootcamp instructional staff and the activities that we
 [Heroku Logo Icon]("https://iconscout.com/icons/heroku") by [Jagathish Saravanan](https://iconscout.com/contributors/jagathish)
 
 ## Instalation
-This page can be accessed from this [heroku page](https://jorge-react-portfolio.herokuapp.com/). The Github repository can be found by [clicking here]().
+This page can be accessed from this [heroku page](https://jorge-react-portfolio.herokuapp.com/). The Github repository can be found by [clicking here](https://github.com/jmarq019/react-portfolio-react-app).
 
 ## Usage 
 The user will use the tabs in the nav-bar to look through the different sections of my portfolio.

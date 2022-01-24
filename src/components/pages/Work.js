@@ -6,6 +6,25 @@ export default function Blog() {
     <h1 class="jumbotron display-4 text-center">My Work</h1>
     
     <div class="card-deck">
+    <div class="card">
+        <img src="/igotcha_screenshot.png" class="card-img-top" alt="tech blog screenshot"/>
+        <div class="card-body">
+        <h5 class="card-title">"Igotcha!" Project</h5>
+        <p class="card-text">This is a fullstack application featuring an Apollo/GraphQL server and client side architectures, mongoDB database, and a frontend built using React Native. This app allows you to find and offer home services.</p>
+        <ul class="list-group list-group-horizontal">
+        <li class="list-group-item">
+        <a href="https://github.com/jmarq019/igotcha_project" target="_blank" rel="noopener noreferrer">
+        <img alt="github icon" src="/github.png"/>
+        </a>
+        </li>
+        <li class="list-group-item">
+        <a href="https://jorge-new-gotcha.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+        <img alt="heroku icon" src="/heroku.png"/>
+        </a>
+        </li>
+        </ul>
+        </div>
+      </div>
       <div class="card">
         <img src="/tech-blog.png" class="card-img-top" alt="tech blog screenshot"/>
         <div class="card-body">
